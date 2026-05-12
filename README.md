@@ -1,6 +1,6 @@
 ### Hi there, I'm Julia! 👋
 
-Jogando so códigos aqui.
+Jogando os códigos aqui.
 
 ---
 
