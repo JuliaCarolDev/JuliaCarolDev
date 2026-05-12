@@ -5,5 +5,6 @@ Jogando os códigos aqui.
 ---
 
 <div align="center">
-  <i>"A liberdade não é nada mais que uma chance para ser melhor." — Albert Camus</i>
+  <i>"Carpe Diem, meninos. Faça a vida uma coisa extraordinária" — Sociedade dos poetas 
+  mortos</i>
 </div>
