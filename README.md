@@ -1,4 +1,3 @@
-### Hi there, I'm Julia! 👋
 
 Jogando os códigos aqui.
 
